@@ -1,0 +1,305 @@
+    1  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+    2  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+    3  cd
+    4  ssh-keygen
+    5  cat .ssh/id_ed25519.pub
+    6  ssh ec2-user@linux.itcareerhub.de
+    7  ssh ec2-user@linux.itcareerhub.de
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  ls ssc
+   10  ls ssc
+   11  ls .ssh
+   12  ssh ec2-user@linux.itcareerhub.de
+   13  cat .ssh/id_ed25519.pub
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  cd /opt
+   16  ssh ec2-user@linux.itcareerhub.de
+   17  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   18  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   19  [200~
+   20  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   21  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   22  top
+   23  htop
+   24  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   25  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   26  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   27  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   28  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   29  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   30  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   31  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   32  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   33  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   34  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   35  cd
+   36  mkdir test_project
+   37  cd test_project
+   38  % git init
+   39  git init
+   40  ls -la
+   41  echo "# test_project" >> README.md
+   42  git status
+   43  git commit -m "add file README.md"
+   44    git config --global user.email "dasha.milkaaa@gmail.com"
+   45  git config --global user.name "Daria_Kosenko"
+   46  git remote add origin git@github.com:Daria-13-kosenko/test_project.git
+   47  git branch -M main
+   48  git branch
+   49  git status
+   50  git commit -m "add file README.md"
+   51  git branch
+   52  git remove -v
+   53  git remote -v
+   54  git push -u origin main
+   55  yes
+   56  clear
+   57  git push -u origin main
+   58  git add.
+   59  git push -u origin main
+   60  history
+   61  git status
+   62  git push
+   63   git push --set-upstream origin main
+   64  git add README.md
+   65  git commit -m "add file README.md"
+   66  git remote add origin git@github.com:Daria-13-kosenko/test_project.git
+   67  git push -u origin main
+   68  cd
+   69  mkdir git_intro
+   70  cd git_intro
+   71  git init
+   72  copy "C:\Users\dasak\OneDrive\Рабочий стол\pexels-eberhard-grossgasteiger-1292301.jpg"
+   73  ls
+   74  git add Daria
+   75  git add pexels-eberhard-grossgasteiger-1292301
+   76  cp "C:\Users\dasak\OneDrive\Рабочий стол\pexels-eberhard-grossgasteiger-1292301.jpg"
+   77  ls
+   78  cp "C:\Users\dasak\OneDrive\Рабочий стол\pexels-eberhard-grossgasteiger-1292301.jpg".
+   79  cp "/c/Users\dasak\OneDrive\Рабочий стол\pexels-eberhard-grossgasteiger-1292301.jpg".
+   80  cp "/c/Users/dasak/OneDrive/Рабочий стол/pexels-eberhard-grossgasteiger-1292301.jpg" .
+   81  ls
+   82  git add pexels-eberhard-grossgasteiger-1292301.jpg
+   83  git branch -M main
+   84  git remote add origin git@github.com:Daria-13-kosenko/git_intro.git
+   85  git push -u origin main
+   86  git add pexels-eberhard-grossgasteiger-1292301.jpg
+   87  git commit -m "Added photo"
+   88  git push -u origin main
+   89  ssh ec2-user@linux.itcareerhub.de
+   90  ssh ec2-user@linux.itcareerhub.de
+   91  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   92  mkdir test123
+   93  cd~
+   94  cd ~
+   95  mkdir123
+   96  cd test123
+   97  cd ~
+   98  mkdir test123
+   99  cd test123
+  100  clear
+  101  echo "# test123" >> README.md
+  102  ll
+  103  git init
+  104  ls -la .git
+  105  ls -la
+  106  git add README.md
+  107  git status
+  108  git commit -m "added file README.md"
+  109  git branch
+  110  git remote add origin git@github.com:Daria-13-kosenko/test123.git
+  111  git remote -v
+  112  git push -u origin main
+  113  git push -u origin master
+  114  touch text.txt
+  115  ls -l
+  116  git status
+  117  git add text.txt
+  118  git status
+  119  git commit -m "creat file text.txt"
+  120  git push
+  121  cat text.txt
+  122  git brs
+  123  git branch
+  124  git checkout -b test
+  125  git branch
+  126  ls -l
+  127  ls -la
+  128  git status
+  129  git add .
+  130  git status
+  131  git commit -m "deleted file README.md"
+  132  git rm README.md
+  133  git status
+  134  git commit -m "deleted file README.md"
+  135  git push origin test
+  136  clear
+  137  git branch
+  138  git checkout -b test
+  139  git branch
+  140  git push -u origin test
+  141  git switch master
+  142  git branch
+  143  git merge test
+  144  ls
+  145  ls -la
+  146  git log
+  147  git --oneline
+  148  git --oneline --graph
+  149  touch 111
+  150  git commit -am "added new file"
+  151  git clone git@github.com:Daria-13-kosenko/test123.git
+  152  mkdir git-branch
+  153  cd ~
+  154  pwd
+  155  mkdir git-branch
+  156  cd git-branch
+  157  git init
+  158  git remote add origin git@github.com:Daria-13-kosenko/git-branch.git
+  159  git checkout -b gitignore
+  160  code .
+  161  git add .gitignore
+  162  git commit -m "Add .gitignore file"
+  163  git push origin gitignore
+  164  nano script_daria.sh
+  165  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  166  ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  167  .ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  168  cd
+  169  mkdir 2907
+  170  ls -l
+  171  cd2907
+  172  cd 2907
+  173  ls -l
+  174  echo "# 2907" >> README.md
+  175  git init
+  176  ls -la
+  177  git add README.md
+  178  git status
+  179  git commit -m "added file README.md"e
+  180  git branch
+  181  git remote add origin git@github.com:Daria-13-kosenko/2907.git
+  182  git remote -v
+  183  git push -u origin master
+  184  git checkout -b test
+  185  git branch
+  186  nano .gitignore
+  187  touch 123.bmp
+  188  ls -l
+  189  ls -la
+  190  git status
+  191  git add .gitignore
+  192  git status
+  193  git commit -m "added .gitignore"
+  194  git branch
+  195  la -l
+  196  ls -la
+  197  git switch master
+  198  ls -la
+  199  git log
+  200  git merge origin test
+  201  git merge test
+  202  git log
+  203  touch 1.txt
+  204  git add 1.txt
+  205  git commit -m "aecond commit"
+  206  git log
+  207  git log --oneline
+  208  git commit --amend 
+  209  export EDITOR=nano
+  210  git commit --amend 
+  211  git log --oneline --graph
+  212  git rebase -i HEAD~2
+  213  nano .gitignore
+  214  git status
+  215  git add .gitignore
+  216  git status
+  217  git commit -m "changed .gitignore"
+  218  git log
+  219  added .gitignore
+  220  added file 1.txt
+  221  git reset --soft
+  222  git log --oneline --graph
+  223  git reset --soft 6e7ca83 
+  224  git log --oneline --graph
+  225  daria.txt
+  226  .daria.txt
+  227  cat daria.txt
+  228  date > daria.txt
+  229  cd ~
+  230  date > daria.txt
+  231  df -h >> daria.txt
+  232  history | tail -n 3 >> daria.txt
+  233  grep cron /etc/password >> daria.txt
+  234  grep cron /etc/passwd >> daria.txt
+  235  daria.txt
+  236  cat daria.txt
+  237  date >daria.txt
+  238  date > daria.txt
+  239  cd~
+  240  cd ~
+  241  date > daria.txt
+  242  df -h / >> daria.txt
+  243  history | tail -n 3 >> daria.txt
+  244  grep cron /ect/group -v nologin >> daria.txt
+  245  grep cron /etc/passwd | grep -v nologin >> daria.txt
+  246  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:~/export_file/result.txt .
+  247  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:~/export_file/result.txt .
+  248  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/home/ec2-user/export_file/result.txt .
+  249  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  250  scp -i /c/Users/dasak/.ssh/id_rsa ec2-user@10.
+  251  scp -i /c/Users/dasak/.ssh/id_rsa ec2-user@10.
+  252  ls /c/Users/dasak/Downloads/
+  253  cd
+  254  git clone git@github.com:Daria-13-kosenko/git-PR.git
+  255  cd git-PR
+  256  ls -la
+  257  git checkout -b issue_44
+  258  ps
+  259  ps -ef
+  260  ps -aux
+  261  ps >> readme
+  262  git status
+  263  git add readme
+  264  git status
+  265  git commit -m "add readme"
+  266  cat readme
+  267  git branch
+  268  git switch main
+  269  ls -la
+  270  git merge issue_44 
+  271  ls -la
+  272  git branch -d
+  273  git branch -d issue_44 
+  274  git push
+  275  cd
+  276  cd git-PR
+  277  git remote -v
+  278  git remote add upstream https://github.com/iohichu/git-PR.git
+  279  git remote -v
+  280  git fetch upstream
+  281  ls -la
+  282  git merge upstream/main
+  283  ls -la
+  284  git status
+  285  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  286  cd
+  287  git clone git@github.com:Daria-13-kosenko/hw_12.git
+  288  cd hw_12
+  289  echo "node_modules/" > .gitignore
+  290  git add .gitignore
+  291  git commit -m "add.gitignore"
+  292  git push origin main
+  293  git checkout -b feature
+  294  echo "# hw_12 project" > README.md
+  295  echo "*.log" >> .gitignore
+  296  git add README.md .gitignore
+  297  git commit -m "update README and gitignore"
+  298  git push origin feature
+  299  git commit --amend -m "update README and gitignore (amend)"
+  300  git push origin feature --force
+  301  git chekout main
+  302  git checkout main
+  303  git merge feature
+  304  git push origin main
+  305  history > history.txt
